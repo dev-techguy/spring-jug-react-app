@@ -1,4 +1,4 @@
-package com.okta.developer.jugtours;
+package africa.shiftech.jugtours;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

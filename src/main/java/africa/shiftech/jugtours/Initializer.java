@@ -1,8 +1,8 @@
-package com.okta.developer.jugtours;
+package africa.shiftech.jugtours;
 
-import com.okta.developer.jugtours.model.Event;
-import com.okta.developer.jugtours.model.Group;
-import com.okta.developer.jugtours.model.GroupRepository;
+import africa.shiftech.jugtours.model.Event;
+import africa.shiftech.jugtours.model.Group;
+import africa.shiftech.jugtours.model.GroupRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 

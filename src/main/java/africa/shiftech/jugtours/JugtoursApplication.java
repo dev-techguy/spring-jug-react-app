@@ -1,4 +1,4 @@
-package com.okta.developer.jugtours;
+package africa.shiftech.jugtours;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

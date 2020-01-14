@@ -1,4 +1,4 @@
-package com.okta.developer.jugtours.model;
+package africa.shiftech.jugtours.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
